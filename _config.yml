@@ -48,6 +48,9 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
+  - cat: jekyll
+    desc: "jekyll's templete"
+
   - cat: Swift
     desc: "개인적으로 매번 검색하게 되는 Swift"
 
@@ -94,7 +97,7 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: 허서영
-    url: www.linkedin.com/in/heoseoyeong
+    url: https://www.linkedin.com/in/heoseoyeong/
     desc: Connect with me on LinkedIn
     share: true
 
