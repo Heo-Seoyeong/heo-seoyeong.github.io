@@ -14,7 +14,7 @@ subtitle: "자주 보게 되는 정보를 정리해두는 곳입니다."
 email: gjtjdud93@gmail.com
 name: Heo Seoyeong
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Seoyeong's Github Blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -48,11 +48,11 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: Swift
+    desc: "개인적으로 매번 검색하게 되는 Swift"
 
   - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+    desc: "잡다한 내용들"
 
 # Social icons and sharing options
 #
